@@ -62,6 +62,9 @@
 				185896CF2126AD9600368CC8 /* AppDelegate.m */,
 				185896D12126AD9600368CC8 /* ViewController.h */,
 				185896D22126AD9600368CC8 /* ViewController.m */,
+				185896E52126B23600368CC8 /* Model */,
+				185896E62126B23600368CC8 /* Presenter */,
+				185896E42126B23600368CC8 /* View */,
 				185896D42126AD9600368CC8 /* Main.storyboard */,
 				185896D72126AD9900368CC8 /* Assets.xcassets */,
 				185896D92126AD9900368CC8 /* LaunchScreen.storyboard */,
@@ -69,6 +72,27 @@
 				185896DD2126AD9900368CC8 /* main.m */,
 			);
 			path = MVP;
+			sourceTree = "<group>";
+		};
+		185896E42126B23600368CC8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		185896E52126B23600368CC8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		185896E62126B23600368CC8 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Presenter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
